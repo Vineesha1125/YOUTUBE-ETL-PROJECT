@@ -1,0 +1,126 @@
+2025-12-25 14:37:24,779 - INFO - ============================================================
+2025-12-25 14:37:24,780 - INFO - STARTING ETL PIPELINE
+2025-12-25 14:37:24,780 - INFO - ============================================================
+2025-12-25 14:37:24,781 - INFO - PHASE 1: Extracting data from YouTube API...
+2025-12-25 14:37:26,628 - INFO - 
+PHASE 2: Transforming data...
+2025-12-25 14:37:26,741 - INFO - 
+PHASE 3: Loading data to database...
+2025-12-25 14:37:26,784 - ERROR - Database loading failed: UNIQUE constraint failed: videos.video_id
+2025-12-25 14:37:26,785 - ERROR - ETL pipeline failed at loading stage
+2025-12-25 14:39:00,543 - INFO - ============================================================
+2025-12-25 14:39:00,544 - INFO - STARTING ETL PIPELINE
+2025-12-25 14:39:00,544 - INFO - ============================================================
+2025-12-25 14:39:00,545 - INFO - PHASE 1: Extracting data from YouTube API...
+2025-12-25 14:39:01,951 - INFO - Extracted 50 videos from US
+2025-12-25 14:39:01,953 - INFO - 
+PHASE 2: Transforming data...
+2025-12-25 14:39:02,014 - INFO - Transformation complete: 50 records
+2025-12-25 14:39:02,016 - INFO - 
+PHASE 3: Loading data to database...
+2025-12-25 14:39:02,051 - WARNING - Error inserting video ENoi24taV2E: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,053 - WARNING - Error inserting video _Dfc89TY-aA: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,055 - WARNING - Error inserting video g4eFKhKnSbY: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,065 - WARNING - Error inserting video yKr563bkO0E: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,067 - WARNING - Error inserting video BPDuqVOJfLU: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,070 - WARNING - Error inserting video Bx2ejavSVSw: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,075 - WARNING - Error inserting video Z0vLXebvtQE: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,078 - WARNING - Error inserting video Mzw2ttJD2qQ: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,080 - WARNING - Error inserting video vN4Rxiv1Xxc: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,085 - WARNING - Error inserting video GI4_G3V458Q: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,088 - WARNING - Error inserting video mMJir3PWF3U: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,091 - WARNING - Error inserting video 0kY-OncKWXA: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,096 - WARNING - Error inserting video jESFwEelFtI: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,098 - WARNING - Error inserting video c0CqYQJU3nU: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,103 - WARNING - Error inserting video t7tKhyjea1w: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,114 - WARNING - Error inserting video Pi1Z54bqBoc: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,120 - WARNING - Error inserting video 6q0ri0njW-I: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,123 - WARNING - Error inserting video CaTr9k9nb5E: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,129 - WARNING - Error inserting video aBH02v0HxvQ: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,132 - WARNING - Error inserting video IkRxorllFs0: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,137 - WARNING - Error inserting video XGpLSKtueHs: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,145 - WARNING - Error inserting video oaJKUCgSSkc: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,147 - WARNING - Error inserting video w4QmoMiIwcA: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,152 - WARNING - Error inserting video frVUUvHnmrM: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,155 - WARNING - Error inserting video NVLgkXylEuQ: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,161 - WARNING - Error inserting video pVPOa6_EfiA: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,164 - WARNING - Error inserting video 3uTIr0Kan-k: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,167 - WARNING - Error inserting video ta4KAXDxsx0: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,169 - WARNING - Error inserting video tsdKBWlpgbs: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,171 - WARNING - Error inserting video eautIUQehPo: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,176 - WARNING - Error inserting video tUgmAe8cKJs: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,178 - WARNING - Error inserting video CK8Xlk2K_ZU: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,184 - WARNING - Error inserting video HKLV9ostj-Q: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,186 - WARNING - Error inserting video h2fgccRKzr8: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,187 - WARNING - Error inserting video P14R8MLqYzQ: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,189 - WARNING - Error inserting video NJMOvGqSfy4: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,192 - WARNING - Error inserting video 5J92iHglH5o: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,193 - WARNING - Error inserting video 1NQPKkqA-fQ: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,194 - WARNING - Error inserting video i1sZXP4eIlE: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,200 - WARNING - Error inserting video Ub4RD4hzQ5U: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,201 - WARNING - Error inserting video Pq_b4rUZmAs: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,202 - WARNING - Error inserting video _WxqcsJr5WY: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,204 - WARNING - Error inserting video aExnNHnMBu0: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,205 - WARNING - Error inserting video JrcPqlLQtkM: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,208 - WARNING - Error inserting video 3tnGkA-cST8: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,210 - WARNING - Error inserting video IRu55EVfUO4: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,212 - WARNING - Error inserting video MYgBuisr_D4: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,213 - WARNING - Error inserting video V9FK31_AB60: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,214 - WARNING - Error inserting video 9TYTWKQBOkU: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,215 - WARNING - Error inserting video zfdy4U9NQ98: Error binding parameter 6: type 'Timestamp' is not supported
+2025-12-25 14:39:02,218 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,219 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,221 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,223 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,311 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,331 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,333 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,334 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,336 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,338 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,339 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,341 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,343 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,344 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,346 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,362 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,369 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,370 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,371 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,372 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,372 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,374 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,375 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,380 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,382 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,383 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,383 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,384 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,385 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,385 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,386 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,387 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,389 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,390 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,391 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,393 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,394 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,395 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,396 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,397 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,398 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,405 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,408 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,411 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,415 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,416 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,417 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,418 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,418 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,419 - WARNING - Error inserting trending data: Error binding parameter 2: type 'Timestamp' is not supported
+2025-12-25 14:39:02,420 - INFO - Videos: 0 new, 0 already exist
+2025-12-25 14:39:02,420 - INFO - Trending records: 0 loaded
+2025-12-25 14:39:02,421 - INFO - 
+============================================================
+2025-12-25 14:39:02,422 - INFO - ETL PIPELINE COMPLETED SUCCESSFULLY!
+2025-12-25 14:39:02,424 - INFO - ============================================================
